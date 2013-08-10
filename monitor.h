@@ -30,8 +30,8 @@
  *
  *
  * \subsection files Files
- *      Main Header: monitor/monitor.h
- *		Threading support: monitor/threads.h
+ *   Main Header: monitor/monitor.h
+ *   Threading support: monitor/threads.h
  **/
 
 #ifndef MONITOR_H___PORT_MONITOR_LIBRARY

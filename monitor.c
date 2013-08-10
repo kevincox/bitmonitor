@@ -9,7 +9,7 @@
 void monitor_init ( monitor_data *d, uint8_t curstate )
 {
 	int i;
-
+	
 	d->state = curstate;
 
 	for ( i = 0; i < 8; i++ )
